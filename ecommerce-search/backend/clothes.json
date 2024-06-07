@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Red Shirt", "category": "Shirt", "price": 29.99, "image": "https://source.unsplash.com/collection/8850259/800x800" },
+    { "id": 2, "name": "Blue Jeans", "category": "Jeans", "price": 49.99, "image": "https://source.unsplash.com/collection/8883404/800x800" },
+    { "id": 3, "name": "Black Jacket", "category": "Jacket", "price": 79.99, "image": "https://source.unsplash.com/collection/8817835/800x800" },
+    { "id": 4, "name": "Green T-Shirt", "category": "T-Shirt", "price": 19.99, "image": "https://source.unsplash.com/collection/8653882/800x800" },
+    { "id": 5, "name": "Yellow Dress", "category": "Dress", "price": 39.99, "image": "https://source.unsplash.com/collection/8353024/800x800" },
+    { "id": 6, "name": "White Sneakers", "category": "Shoes", "price": 59.99, "image": "https://source.unsplash.com/collection/8877673/800x800" },
+    { "id": 7, "name": "Black Boots", "category": "Shoes", "price": 89.99, "image": "https://source.unsplash.com/collection/8337911/800x800" },
+    { "id": 8, "name": "Gray Hat", "category": "Hat", "price": 14.99, "image": "https://source.unsplash.com/collection/8266937/800x800" },
+    { "id": 9, "name": "Orange Scarf", "category": "Accessories", "price": 12.99, "image": "https://source.unsplash.com/collection/8204971/800x800" },
+    { "id": 10, "name": "Purple Gloves", "category": "Accessories", "price": 9.99, "image": "https://source.unsplash.com/collection/8213421/800x800" },
+    { "id": 11, "name": "Brown Belt", "category": "Accessories", "price": 19.99, "image": "https://source.unsplash.com/collection/8289742/800x800" },
+    { "id": 12, "name": "Blue Cap", "category": "Hat", "price": 13.99, "image": "https://source.unsplash.com/collection/8346885/800x800" },
+    { "id": 13, "name": "Pink Hoodie", "category": "Hoodie", "price": 34.99, "image": "https://source.unsplash.com/collection/8224771/800x800" },
+    { "id": 14, "name": "Red Dress", "category": "Dress", "price": 44.99, "image": "https://source.unsplash.com/collection/8353024/800x800" },
+    { "id": 15, "name": "Blue Shorts", "category": "Shorts", "price": 24.99, "image": "https://source.unsplash.com/collection/8406965/800x800" },
+    { "id": 16, "name": "Black Pants", "category": "Pants", "price": 59.99, "image": "https://source.unsplash.com/collection/8509986/800x800" },
+    { "id": 17, "name": "Green Socks", "category": "Accessories", "price": 4.99, "image": "https://source.unsplash.com/collection/8374794/800x800" },
+    { "id": 18, "name": "White T-Shirt", "category": "T-Shirt", "price": 14.99, "image": "https://source.unsplash.com/collection/8585672/800x800" },
+    { "id": 19, "name": "Purple Sweater", "category": "Sweater", "price": 39.99, "image": "https://source.unsplash.com/collection/8714785/800x800" },
+    { "id": 20, "name": "Gray Cardigan", "category": "Cardigan", "price": 49.99, "image": "https://source.unsplash.com/collection/8726955/800x800" }
+]
